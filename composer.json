@@ -1,0 +1,21 @@
+{
+    "name": "0ws0/hobby",
+    "description": "my hobby!yahoo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vision",
+            "email": "sunshine77580@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"php":">=7.0.0"
+	},
+    "autoload": {
+	     "psr-4":{
+			"Hobby\\":"src/"	
+		  }
+		}
+}
