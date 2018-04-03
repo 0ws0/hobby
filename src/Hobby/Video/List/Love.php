@@ -1,7 +1,7 @@
 <?php
 namespace Hobby\Video\List;
 
-class List
+class Love
 {
 	function test()
 	{
