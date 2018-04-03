@@ -16,6 +16,9 @@
     "autoload": {
 	     "psr-4":{
 			"Hobby\\":"src/"	
-		  }
+		  },
+		 "psr-0":{
+                        "Hobby\\Video\\":"src/video/"
+                  }
 		}
 }
