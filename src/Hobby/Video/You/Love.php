@@ -5,6 +5,6 @@ class You_Love
 {
 	function test()
 	{
-		echo 'hello world';
+		echo 'hello world'.PHP_EOL;
 	}
 }

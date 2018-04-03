@@ -5,6 +5,6 @@ class Show
 {
 	function test()
 	{
-		echo 'test ';
+		echo 'test '.PHP_EOL;
 	}
 }
