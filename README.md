@@ -1,4 +1,5 @@
-PSR-0 PSR-4 示例
+
+PSR-0 PSR-4 示例 PSR规范:https://psr.phphub.org/
 
 在做composer包时，调示方法为在vendor_name目录下进行composer install则会生成vendor目录然后可写单元进行composer配置和类方法测试。
 
